@@ -100,19 +100,21 @@ Visit http://localhost:8000 to access the application.
 ### Pull & Merge Conflicts
 
 ```
-Administrator@DESKTOP-GARLJAI MINGW64 /d/Laravel/invoice-laravel-project (main)
+Administrator@DESKTOP-GARLJAI MINGW64 /d/FatoraBee_laravel (main)
 $ git pull origin main
 ...
 Automatic merge failed; fix conflicts and then commit the result.
+
 ```
 
 ### Push Success
 
 ```
-Administrator@DESKTOP-GARLJAI MINGW64 /d/Laravel/invoice-laravel-project (main)
+Administrator@DESKTOP-GARLJAI MINGW64 /d/FatoraBee_laravel (main)
 $ git push origin main
 ...
 main -> main
+
 ```
 
 ---
