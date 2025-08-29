@@ -77,6 +77,7 @@ php artisan key:generate
 
 ```bash
 php artisan migrate
+php artisan migrate --path=/database/migrations/settings/
 ```
 
 7. Serve the application:
